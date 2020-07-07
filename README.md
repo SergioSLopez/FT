@@ -1,0 +1,2 @@
+# FT
+I feel like this activity showed me that it is possible to find solutions to your problems online, just type in the error that terminal tells you and you want to type it in the error that terminal tells you and you should be able to find something. This will help when debugging by finding specific solutions to specific problems. This'll make it so I don't have to rely on people to solve bugs. I still have to learn to how to stay properly focused and how to control my emotions from getting out of hand and giving up.
